@@ -1,0 +1,11 @@
+[yuanbao]
+enable = true
+# API配置
+api_url = "https://api.317ak.com/API/AI/hunyuan/hunyuanhh.php"
+qq = "67628042"
+
+# 触发命令
+triggers = ["元宝", "元宝画"]
+
+# 默认风格，当用户未指定风格时使用
+default_style = ""
