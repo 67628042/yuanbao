@@ -19,7 +19,7 @@ from WechatAPI import WechatAPIClient
 class YuanbaoPlugin(PluginBase):
     """元宝AI绘画插件类"""
     description = "元宝AI绘画插件：使用'元宝+内容+风格'或'元宝画+内容+风格'生成AI绘画"
-    author = "AI Assistant"
+    author = "鸿菇"
     version = "1.0.0"
 
     # 支持的风格列表
